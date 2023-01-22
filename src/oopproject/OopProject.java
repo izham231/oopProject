@@ -6,7 +6,7 @@ package oopproject;
 
 /**
  *
- * @author izhmzulkifle
+ * @author izhmzulkifle asdas
  */
 public class OopProject {
 
